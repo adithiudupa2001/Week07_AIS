@@ -1,0 +1,6 @@
+{
+  "name": "The 9 PM Inbox: Who Leads Each Step?",
+  "description": "A classroom explainer exploring human-AI task allocation across a 2x2 collaboration matrix for a student nightly inbox workflow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
